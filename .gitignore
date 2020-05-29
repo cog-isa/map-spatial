@@ -1,0 +1,14 @@
+*.log
+*.pyc
+.idea
+*.swm
+*.soln
+dist
+build
+__pychache__
+mapspatial.egg-info
+env
+venv
+.DS_store
+*.tmp
+*.gif
