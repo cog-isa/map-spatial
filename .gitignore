@@ -137,3 +137,7 @@ dmypy.json
 
 # Archieves
 *.rar
+
+# Profile files
+*.prof
+
